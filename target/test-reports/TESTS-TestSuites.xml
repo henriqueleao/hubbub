@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="i52500k" id="0" name="UserIntegrationIntegrationSpec" package="com.grailsinaction" skipped="0" tests="1" time="1.819" timestamp="2016-04-25T00:29:01">
+      <properties />
+
+      <testcase classname="com.grailsinaction.UserIntegrationIntegrationSpec" name="Saving our first user to the database" time="1.707" />
+
+      <system-out><![CDATA[--Output from Saving our first user to the database--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Saving our first user to the database--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

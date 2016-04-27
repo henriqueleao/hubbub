@@ -1,0 +1,10 @@
+Testsuite: com.grailsinaction.UserIntegrationIntegrationSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1,819 sec
+------------- Standard Output ---------------
+--Output from Saving our first user to the database--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Saving our first user to the database--
+------------- ---------------- ---------------
+
+Testcase: Saving our first user to the database took 1,707 sec
